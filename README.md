@@ -1,1 +1,1 @@
-# The model codes are for the manuscript "Improving Estimation of Seasonal Evapotranspiration in Australian Tropical Savannas using a Flexible Drought Index" submitted to Agricultural and Forest Meteorology. 
+The model codes are for the manuscript "Improving Estimation of Seasonal Evapotranspiration in Australian Tropical Savannas using a Flexible Drought Index" submitted to Agricultural and Forest Meteorology. 
